@@ -1,5 +1,5 @@
 # Program file
-![TIME TABLE](TIME TABLE.html)
+![TIME-TABLE](TIME-TABLE.html)
 
 # Output
-![Output(TIME TABLE)](Output(TIME TABLE).png)
+![Output(TIME-TABLE)](Output(TIME-TABLE).png)
