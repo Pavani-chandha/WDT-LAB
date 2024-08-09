@@ -8,6 +8,6 @@
 ![CSE-I](CSE-I.html)
 
 # Output
-![Output(HOME)](Output(HOME))
-![Output(CSE)](Output(CSE))
-![Output(CSE-I)](Output(CSE-I))
+![Output(HOME)](Output(HOME).png)
+![Output(CSE)](Output(CSE).png)
+![Output(CSE-I)](Output(CSE-I).png)
